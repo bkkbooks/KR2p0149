@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR2p0149/chant/v1/juan/3
+seq: 3
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 第三章君子居則貴左用兵則貴右故曰兵者不祥之器也不得已而用之銛襲為上弗美也美之是樂殺人夫樂殺人不可以得志於天下故吉事上左喪事上右是以偏將軍居左上將軍居右言以喪禮居之也故殺人衆則以哀悲涖之戰勝則以喪禮居之
+  hash: sha256:725aeaca96ab69fceea9c4e7f0b648d44d3619b37cb74d4e694cdcb6ef1ff1ba
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR2p0149_CHANT_003-1a.1-h}
+metadata:
+  title: 老子丙本
+  edition:
+    short: chant
+  source:
+    repository: tls-texts
+    path: data/tls/KR2p0149.xml
+hash: sha256:f4fd338ae4dcd2b00c4e3c1a217521edf6b8bab49fea018fb724b06c34388422

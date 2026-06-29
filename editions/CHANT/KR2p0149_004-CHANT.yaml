@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR2p0149/chant/v1/juan/4
+seq: 4
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 第四章為之者敗之執之者失之聖人無為故無敗也無執故無失也慎終若始則無敗事矣人之敗也恒於其且成也敗之是以聖人欲不欲不貴難得之貨學不學復眾之所過是以能輔萬物之自然而弗敢為
+  hash: sha256:daecd7a0aec6d5decb0518a7f20a251a578a3177b403021da6c550d49c25fe1e
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR2p0149_CHANT_004-1a.1-h}
+metadata:
+  title: 老子丙本
+  edition:
+    short: chant
+  source:
+    repository: tls-texts
+    path: data/tls/KR2p0149.xml
+hash: sha256:776fad0a4a07f6ccf07565d960bfd7ddeaf792f316ab4d5583dd79e25e646e2c

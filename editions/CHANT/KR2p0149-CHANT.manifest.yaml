@@ -1,0 +1,69 @@
+canonical_identifier: bkk:krp/KR2p0149/CHANT/v1
+canonical_location: https://kanripo.org/bkk/KR2p0149/CHANT/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 老子丙本
+  identifiers:
+    krp: KR2p0149
+  tags:
+    kr-categories: KR2p
+  source:
+    repository: tls-texts
+    path: data/tls/KR2p0149.xml
+  edition:
+    short: CHANT
+assets:
+  parts:
+  - {seq: 1, filename: KR2p0149_001-CHANT.yaml, hash: 'sha256:e04ddc79901ba7548ea7565be5ae5c38bf984359a45df67a33ab2ddd678ca71c'}
+  - {seq: 2, filename: KR2p0149_002-CHANT.yaml, hash: 'sha256:e4f673f87a38062e1eeebbb13ec4a25aedfb5490c3e0062c2d44c5753d71568b'}
+  - {seq: 3, filename: KR2p0149_003-CHANT.yaml, hash: 'sha256:8de6d20d56549de4e29feba831fd23ad92fac872e156678ba81f2988baa1f03c'}
+  - {seq: 4, filename: KR2p0149_004-CHANT.yaml, hash: 'sha256:776fad0a4a07f6ccf07565d960bfd7ddeaf792f316ab4d5583dd79e25e646e2c'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR2p0149_001-CHANT.markers.yaml, hash: 'sha256:1eff438c367dfdf9ffd0a38b5927ba356d1478148a152b25de2c5af14f376b53'}
+  - {seq: 2, role: markers, filename: assets/KR2p0149_002-CHANT.markers.yaml, hash: 'sha256:33c7d58ac984e022e551d86841235c271350d7f3035bed4b79a0f03f6b012aae'}
+  - {seq: 3, role: markers, filename: assets/KR2p0149_003-CHANT.markers.yaml, hash: 'sha256:3ecf1e08d142698084753ee0172fbc16bb8f0288f52da3de309c40caffa2bf49'}
+  - {seq: 4, role: markers, filename: assets/KR2p0149_004-CHANT.markers.yaml, hash: 'sha256:6b6c98ac0b9287cd7d7c4349723c900645bbf5db34a72d7ff9c562546f5027b1'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR2p0149_CHANT_001-1a.1-h
+    span:
+    - body
+    - 0
+    - 71
+  label: 第一章
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR2p0149_CHANT_002-1a.1-h
+    span:
+    - body
+    - 0
+    - 49
+  label: 第二章
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR2p0149_CHANT_003-1a.1-h
+    span:
+    - body
+    - 0
+    - 100
+  label: 第三章
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR2p0149_CHANT_004-1a.1-h
+    span:
+    - body
+    - 0
+    - 82
+  label: 第四章
+  type: section
+  level: 1
+hash: sha256:d780185a7b8b211967acadd76a550590dc7f974520955cb233c10f0e3462f824
