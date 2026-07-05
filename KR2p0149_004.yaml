@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 第四章為之者敗之執之者失之聖人無為故無敗也無執故無失也慎終若始則無敗事矣人之敗也恆於其且成也敗之是以聖人欲不欲不貴難得之貨學不學復衆之所過是以能輔萬物之自然而弗敢為
-  hash: sha256:177c2dc141a86fb2296bc3cf25ddf616bbfc969074625e9aa8341f03e441d3ec
+  text: 第四章為之者敗之執之者失之聖人無為故無敗也無執故無失也慎終若始則無敗事矣人之敗也恒於其且成也敗之是以聖人欲不欲不貴難得之貨學不學復眾之所過是以能輔萬物之自然而弗敢為
+  hash: sha256:daecd7a0aec6d5decb0518a7f20a251a578a3177b403021da6c550d49c25fe1e
   markers:
   - {type: 'tls:head', offset: 0, content: '', id: KR2p0149_CHANT_004-1a.1-h}
 metadata:
@@ -15,4 +15,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR2p0149.xml
-hash: sha256:5535f45c84b1e7d85e4f0b64c28c86d95d1bd856f0ead5bf41c3417bf0248360
+hash: sha256:776fad0a4a07f6ccf07565d960bfd7ddeaf792f316ab4d5583dd79e25e646e2c
